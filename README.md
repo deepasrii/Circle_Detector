@@ -12,4 +12,4 @@ To check whether the given pixel coordinates are inside or outside, the General 
 
 (x - a)^2 + (y - b)^2 = r^2 where, (a,b) - coordinates of the center of the circle, r - radius of the circle.
 
-Finally, the circle_detector detects the circle in the input image and outlines it in green.
+Finally, the circle_detector detects the circle in an input image and outlines it in green.
